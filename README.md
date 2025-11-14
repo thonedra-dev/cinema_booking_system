@@ -43,4 +43,4 @@ If you face any difficulty or have questions, feel free to reach out:
 
 ## System Requirements
 [beak](https://beakit.com/)
-<img src="https://t.bkit.co/w_69179b65350d0.gif" />
+<img src="https://t.bkit.co/w_69179f2b2481b.gif" />
