@@ -41,3 +41,4 @@ A PHP-based web application with **user authentication, dynamic movie booking, p
 If you face any difficulty or have questions, feel free to reach out:  
 **Email:** thonedra.dev@gmail.com
 
+<img src="https://t.bkit.co/w_691799609f385.gif" />
